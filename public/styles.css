@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  color: red;
+  color: rgb(0, 117, 78);
   font-family: sans-serif;
 }
 
@@ -24,5 +24,5 @@ img.centered {
 }
 
 .fossil-div img {
-  border: 2px solid green;
+  border: 2px solid rgb(157, 0, 177);
 }
